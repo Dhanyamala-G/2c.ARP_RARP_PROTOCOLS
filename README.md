@@ -33,7 +33,7 @@ while True:
              c.send("Not Found".encode())
 ```
 
-Client
+Client <br>
 ```
 import socket 
 s=socket.socket() 
